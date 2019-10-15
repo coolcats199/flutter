@@ -3,7 +3,7 @@
 
 # Always perform LF normalization on these files
 *.dart   text
-*.gradle text
+*.gradle vince
 *.html   text
 *.java   text
 *.json   text
